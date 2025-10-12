@@ -1,0 +1,13 @@
+def print_number_part(num):
+    print(num)
+print_number_part(8)
+print_number_part(8)
+print_number_part(0)
+print_number_part(0)
+print_number_part(5)
+print_number_part(5)
+print_number_part(5)
+print_number_part(3)
+print_number_part(5)
+print_number_part(3)
+print_number_part(5)
